@@ -7,7 +7,7 @@ Code for training can be found in the [PyTorch CycleGAN and pix2pix repository](
 
 You can find our paper on this dnb style transfer system here:
 
-_[Vande Veire, L., De Bie, T., & Dambre, J. (2019). A CycleGAN for style transfer between drum and bass subgenres. In ML4MD at ICML2019, Proceedings. Long Beach, CA.](https://biblio.ugent.be/publication/8619952))_
+_[Vande Veire, L., De Bie, T., & Dambre, J. (2019). A CycleGAN for style transfer between drum and bass subgenres. In ML4MD at ICML2019, Proceedings. Long Beach, CA.](https://biblio.ugent.be/publication/8619952)_
 
 
 
