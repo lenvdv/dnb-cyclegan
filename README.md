@@ -47,7 +47,7 @@ The command that I used for training is the following: `python train.py --dataro
 The demo (implemented as a Jupyter Notebook) allows you to apply a pretrained model to your own liquid or dancefloor drum and bass songs.
 
 The required Python packages are in the `requirements.txt` file, install using `pip install -r requirements.txt`.
-Then launch the Jupyter notebook environment using `jupyter notebook` in the demo directory, open the `Liquid and dancefloor style transfer.ipynb` Notebook, run all the cells, and enjoy! B)
+Then launch the Jupyter notebook environment using `jupyter notebook` in the demo directory, open the `Liquid and dancefloor style transfer.ipynb` Notebook, run all the cells, and enjoy! :fire: :headphones:
 
 
 ## Examples
