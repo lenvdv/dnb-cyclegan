@@ -1,13 +1,13 @@
-# Liquid <-> Dancefloor Drum and Bass Style Transfer using CycleGAN
+# Liquid/Dancefloor Drum and Bass Style Transfer using CycleGAN
 
 This repository contains some of the code that I used in the application of the [CycleGAN model (in PyTorch)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) to music style transfer for drum and bass.
 More specifically, it contains a script to create a dataset in the same way as done in the paper,
 and a Jupyter Notebook containing a pretrained model and a demo.
 Code for training can be found in the [PyTorch CycleGAN and pix2pix repository](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 
-These results were reported in:
+You can find our paper on this dnb style transfer system here:
 
-_[Vande Veire, L., De Bie, T., & Dambre, J. (2019). A CycleGAN for style transfer between drum and bass subgenres. In ML4MD at ICML2019, Proceedings. Long Beach, CA.](https://biblio.ugent.be/publication/8619952))_
+_[Vande Veire, L., De Bie, T., & Dambre, J. (2019). A CycleGAN for style transfer between drum and bass subgenres. In ML4MD at ICML2019, Proceedings. Long Beach, CA.](https://biblio.ugent.be/publication/8619952)_
 
 
 
@@ -47,7 +47,7 @@ The command that I used for training is the following: `python train.py --dataro
 The demo (implemented as a Jupyter Notebook) allows you to apply a pretrained model to your own liquid or dancefloor drum and bass songs.
 
 The required Python packages are in the `requirements.txt` file, install using `pip install -r requirements.txt`.
-Then launch the Jupyter notebook environment using `jupyter notebook` in the demo directory, open the `Liquid and dancefloor style transfer.ipynb` Notebook, run all the cells, and enjoy! B)
+Then launch the Jupyter notebook environment using `jupyter notebook` in the demo directory, open the `Liquid and dancefloor style transfer.ipynb` Notebook, run all the cells, and enjoy! :fire: :headphones:
 
 
 ## Examples
