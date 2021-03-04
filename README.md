@@ -1,4 +1,4 @@
-# Liquid <-> Dancefloor Drum and Bass Style Transfer using CycleGAN
+# Liquid/Dancefloor Drum and Bass Style Transfer using CycleGAN
 
 This repository contains some of the code that I used in the application of the [CycleGAN model (in PyTorch)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) to music style transfer for drum and bass.
 More specifically, it contains a script to create a dataset in the same way as done in the paper,
