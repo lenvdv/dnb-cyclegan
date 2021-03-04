@@ -5,7 +5,7 @@ More specifically, it contains a script to create a dataset in the same way as d
 and a Jupyter Notebook containing a pretrained model and a demo.
 Code for training can be found in the [PyTorch CycleGAN and pix2pix repository](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 
-These results were reported in:
+You can find our paper on this dnb style transfer system here:
 
 _[Vande Veire, L., De Bie, T., & Dambre, J. (2019). A CycleGAN for style transfer between drum and bass subgenres. In ML4MD at ICML2019, Proceedings. Long Beach, CA.](https://biblio.ugent.be/publication/8619952))_
 
